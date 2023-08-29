@@ -1,0 +1,21 @@
+
+Arquivo: ./Modelos/512_yolov4_5000_dados_celulas.txt
+Melhor Threshold: 0.35
+Precision: 0.93
+Recall: 0.79
+F1-Score: 0.88
+
+Arquivo: ./Modelos/608_yolov4_5000_dados_celulas.txt
+Melhor Threshold: 0.15
+Precision: 0.93
+Recall: 0.79
+F1-Score: 0.87
+
+Arquivo: ./Modelos/800_yolov4_5000_dados_celulas.txt
+Melhor Threshold: 0.75
+Precision: 0.93
+Recall: 0.79
+F1-Score: 0.89
+
+Melhor arquivo: ./Modelos/800_yolov4_5000_dados_celulas.txt
+Melhor F1-Score: 0.89
