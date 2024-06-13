@@ -1,4 +1,4 @@
-# Precision-Recall Analysis Script
+# Precision-Recall Analysis Script (Python)
 
 Este é um script Python que processa arquivos de saída (análises de uma rede neural (Yolov4)) contendo informações de métricas de TP, FP, FN e IoU para diferentes thresholds de um algoritmo de detecção. O script calcula e plota as curvas Precision-Recall para cada arquivo e identifica o melhor threshold e arquivo com base no maior F1-Score.
 
